@@ -1,9 +1,8 @@
 # Jacky Woo 🤓
-I am a computer programming student in Georgian College @ILAC in Toronto now actively learning how to code.
-Coding is new to me but I like to build things from ground up and try to accomplish a small target every time!
+I'm a computer programming student at Georgian College @ILAC, Toronto, and I'm excited to learn how to build software applications from the ground up. 
+I'm passionate about taking on small challenges and achieving them one step at a time.
 
 Technologies & Tools:
-
 <img height=50 align="center" src="https://github.com/jackywooks/README/assets/146035892/56536771-f37f-4caf-a4a3-0b4589f9bc79" alt= "HTML" />
 <img height=50 align="center" src="https://github.com/jackywooks/README/assets/146035892/15e1646e-3773-44f2-9e76-b51d6e4925a0" alt= "CSS" />
 <img height=50 align="center" src="https://github.com/jackywooks/README/assets/146035892/3fcbdeca-3d00-47b8-a8a1-b67e960cf3c3" alt= "Javascript" />
