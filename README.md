@@ -15,12 +15,12 @@ Technologies & Tools:
 
 <br>
 <br>
-<a href="https://github-readme-stats.vercel.app/api?username=jackywooks&theme=dracula&show_icons=true&hide_border=true">
+<a href="https://github.com/jackywooks?tab=repositories">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jackywooks&theme=dracula&show_icons=true&hide_border=true" />
 </a>
 
 <a href="https://github.com/jackywooks?tab=repositories">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackywooks&theme=dracula&show_icons=true&hide_border=true&layout=donut" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackywooks&theme=dracula&show_icons=true&hide_border=true&layout=donut&langs_count=7" />
 </a>
 
 
